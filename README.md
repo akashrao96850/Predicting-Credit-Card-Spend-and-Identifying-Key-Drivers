@@ -19,6 +19,6 @@ Data is encoded in the numerical format to reduce the size of the data however s
 
 ## Please find the following files:
 
-1.Required ipynb file
+1. Required ipynb file.
 
-2.Provided data and other material
+2. Provided data and other material.
